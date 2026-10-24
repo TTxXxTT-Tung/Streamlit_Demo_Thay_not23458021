@@ -1,2 +1,5 @@
-# Streamlit_Demo_Thay_not23458021
-Demo cua thay Duc
+## Project Khoa học Màu sắc
+## Trường ĐH SPKT Tp.HCM
+## Khoa Công nghệ Kỹ thuật In
+## Năm học 2024-2025
+## Phan Ngọc Thắm
